@@ -2,11 +2,14 @@
 ## 使用言語
 Python3
 ## 使用ライブラリ
-・Numpy<br>
-・librosa<br>
-・matplotlib<br>
-・TensorFlow
-・os
+・Numpy 1.24.3<br>
+・librosa 0.10.1<br>
+・matplotlib 3.6.2<br>
+・TensorFlow 2.13.1
+## 実行環境
+ubuntu20.04.6
+WSL2
+VSCode
 ## データセット
 ### 学習用データセット
 #### GTZAN Dataset - Music Genre Classification
@@ -54,6 +57,8 @@ music_trainer.py実行後、music_prediction.pyを実行
 ノード数 = 256<br>
 ### Dropout
 ### Dense
+### optimizer = Adam
+### epoch = 10
 ## 制作理由
 大学で機械学習について学習していくうえで深層学習に興味を持つ。<br>
 趣味のDTMと関連付けて何かできないかと考え、音楽ジャンルの分類に挑戦したいと考え制作。
