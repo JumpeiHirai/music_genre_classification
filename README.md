@@ -17,10 +17,14 @@ Python3
 ・librosa 0.10.1<br>
 ・matplotlib 3.6.2<br>
 ・TensorFlow 2.13.1
+・tkinter 8.6.10
+・Pillow 8.0.1
 ## 3.実行環境
 ubuntu20.04.6<br>
 WSL2<br>
-VSCode
+VSCode<br>
+※WSLがGUIに対応していないためGUI表示をWindows側で行う  <br>
+※WindowsがTensorFlow最新版へ対応していにためWSLとWindowsで分担する
 ## 4.データセット
 ### 学習用データセット
 #### GTZAN Dataset - Music Genre Classification
@@ -43,13 +47,13 @@ wslで実行する関数群
 ジャンル推定
 ## 6.実行方法
 ### ファイル構造
-#### current
+#### App
 music_main.py<br>
 music_functions.py<br>
 music_functions_wsl.py<br>
 music_trainer.py<br>
 music_prediction.py<br>
-archive<br>
+archive(データセット※ダウンロード必要)<br>
 log.txt<br>
 ※music_trainer.py実行後は、<br>
 mfccs_dataset.npz<br>
