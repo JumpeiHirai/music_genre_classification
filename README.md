@@ -16,8 +16,8 @@ Python3
 ・Numpy 1.24.3<br>
 ・librosa 0.10.1<br>
 ・matplotlib 3.6.2<br>
-・TensorFlow 2.13.1
-・tkinter 8.6.10
+・TensorFlow 2.13.1<br>
+・tkinter 8.6.10<br>
 ・Pillow 8.0.1
 ## 3.実行環境
 ubuntu20.04.6<br>
