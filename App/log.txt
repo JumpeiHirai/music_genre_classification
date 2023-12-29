@@ -1,0 +1,10 @@
+2023-12-29 23:48:49.278295: predicted  : /mnt/c/Users/2118081/Desktop/music_train/test_data/beachside-reflections-161788.mp3 
+2023-12-29 23:49:01.162842: added      : /mnt/c/Users/2118081/Desktop/music_train/test_data/k014.wavblues
+2023-12-29 23:52:20.343204: predicted  : /mnt/c/Users/2118081/Desktop/music_train/test_data/beachside-reflections-161788.mp3 
+2023-12-30 00:02:06.540573: predicted  : /mnt/c/Users/2118081/Desktop/music_train/test_data/beachside-reflections-161788.mp3 load file :  blues.00000.au
+2023-12-30 00:02:42.821856: added      : /mnt/c/Users/2118081/Desktop/music_train/test_data/beachside-reflections-161788.mp3blues
+2023-12-30 00:03:13.924841: modelconst : Success
+2023-12-30 00:07:59.892007: added      : /mnt/c/Users/2118081/Desktop/music_train/test_data/beachside-reflections-161788.mp3blues
+2023-12-30 00:34:29.547760: predicted  : /mnt/c/Users/2118081/Desktop/music_train/test_data/beachside-reflections-161788.mp3 
+2023-12-30 00:48:57.206914: added      : /mnt/c/Users/2118081/Desktop/music_train/test_data/k014.wavblues
+2023-12-30 00:48:53.777319: predicted  : /mnt/c/Users/2118081/Desktop/music_train/test_data/k014.wav pop
