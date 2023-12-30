@@ -1,0 +1,10 @@
+2023-12-30 22:21:15.710039: predicted  : /mnt/c/Users/2118081/Desktop/Create/music_train/test_data/ks029.wav reggae
+2023-12-30 22:34:05.214535: added      : /mnt/c/Users/2118081/Desktop/Create/music_train/test_data/Beethoven-PianoSonata-No8-2nd-2020-AR.mp3blues
+2023-12-30 22:33:58.021823: predicted  : /mnt/c/Users/2118081/Desktop/Create/music_train/test_data/Beethoven-PianoSonata-No8-2nd-2020-AR.mp3 classical
+2023-12-30 22:34:29.242567: modelconst : Success
+2023-12-30 22:35:09.927793: added      : /mnt/c/Users/2118081/Desktop/Create/music_train/test_data/THE_PLANET_DESTROYER.mp3blues
+2023-12-30 23:11:21.128332: predicted  : /mnt/c/Users/2118081/Desktop/Create/music_train/test_data/ks029.wav reggae
+2023-12-30 23:13:38.037247: added      : /mnt/c/Users/2118081/Desktop/Create/music_train/test_data/THE_PLANET_DESTROYER.mp3blues
+2023-12-30 23:13:34.101832: predicted  : /mnt/c/Users/2118081/Desktop/Create/music_train/test_data/THE_PLANET_DESTROYER.mp3 reggae
+2023-12-30 23:22:12.890908: added      : /mnt/c/Users/2118081/Desktop/Create/music_train/test_data/ks029.wavblues
+2023-12-30 23:21:59.740395: predicted  : /mnt/c/Users/2118081/Desktop/Create/music_train/test_data/ks029.wav reggae
